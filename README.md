@@ -1,4 +1,5 @@
-# 📊 Blog Performance Dashboard – Power BI
+# 📊 Blog Performance Dashboard – Power BI And Excel
+
 ## 📝 Overview
 This Blog Performance Dashboard provides an interactive and detailed analysis of blog metrics, helping content creators and analysts track engagement, performance, and audience behavior. Built using Power BI, this dashboard helps in monitoring blog traffic, audience demographics, post-performance, and revenue insights.
 
